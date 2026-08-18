@@ -560,7 +560,3 @@ No HKD JSON file-size limit
 ```
 
 [**Buy HKD JSON Unlimited**](https://buy.stripe.com/6oUaEQ7CH6o7gYa6ALgUM04)
-
-Project:
-
-[https://github.com/yangofzeal/hkd_json](https://github.com/yangofzeal/hkd_json)
