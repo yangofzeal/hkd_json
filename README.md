@@ -529,11 +529,6 @@ For maximum compression ratio regardless of CPU cost, a dedicated compressor may
 
 The current HKD JSON implementation uses Python and the standard library and does not require Numba/JIT for the benchmarked fast path.
 
-This keeps deployment straightforward on:
-
-- macOS
-- Linux
-
 The implementation deliberately relies on efficient native-backed standard-library operations where appropriate instead of introducing a JIT dependency when it does not improve the complete serialization pipeline.
 
 ---
